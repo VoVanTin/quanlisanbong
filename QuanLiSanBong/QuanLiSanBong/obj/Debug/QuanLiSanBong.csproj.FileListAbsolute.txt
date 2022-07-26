@@ -1,0 +1,132 @@
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe.config
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.pdb
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csprojResolveAssemblyReference.cache
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DangNhap.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Main_QuanLiSanBong.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Properties.Resources.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csproj.GenerateResource.Cache
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.exe
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.pdb
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.BangGiaSan.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DangKy.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe.config
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.exe
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.pdb
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csprojResolveAssemblyReference.cache
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DanhSachDatSan.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DangNhap.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Main_QuanLiSanBong.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Properties.Resources.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csproj.GenerateResource.Cache
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.pdb
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.XemChiTietDatSan.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DichVuVaThanhToan.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DanhSachNhanSan.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.ThongTinTaiKhoan.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.ThongKeDoanhThu.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\EntityFramework.dll
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\EntityFramework.xml
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLySan.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.FrmReportcs.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyNhanVien.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyKhachHang.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyHoaDon.resources
+D:\Dow\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyDichVu.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe.config
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.exe
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.pdb
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.pdb
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\EntityFramework.dll
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\EntityFramework.xml
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csprojResolveAssemblyReference.cache
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DanhSachDatSan.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DangNhap.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DanhSachNhanSan.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DichVuVaThanhToan.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.FrmReportcs.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Main_QuanLiSanBong.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Properties.Resources.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyDichVu.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyHoaDon.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyKhachHang.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyNhanVien.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLySan.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.ThongKeDoanhThu.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.ThongTinTaiKhoan.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.XemChiTietDatSan.resources
+D:\Đồ Án .NET\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csproj.GenerateResource.Cache
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe.config
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.exe
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.pdb
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.pdb
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\EntityFramework.dll
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\EntityFramework.xml
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csprojResolveAssemblyReference.cache
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DanhSachDatSan.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DangNhap.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DanhSachNhanSan.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DichVuVaThanhToan.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.FrmReportcs.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Main_QuanLiSanBong.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Properties.Resources.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyDichVu.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyHoaDon.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyKhachHang.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyNhanVien.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLySan.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.ThongKeDoanhThu.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.ThongTinTaiKhoan.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.XemChiTietDatSan.resources
+D:\Dow\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csproj.GenerateResource.Cache
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe.config
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.exe
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.pdb
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.pdb
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\EntityFramework.dll
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\bin\Debug\EntityFramework.xml
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csprojResolveAssemblyReference.cache
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DanhSachDatSan.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DangNhap.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DanhSachNhanSan.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DichVuVaThanhToan.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.FrmReportcs.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Main_QuanLiSanBong.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Properties.Resources.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyDichVu.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyHoaDon.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyKhachHang.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyNhanVien.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLySan.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.ThongKeDoanhThu.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.ThongTinTaiKhoan.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.XemChiTietDatSan.resources
+D:\Đồ Án .NET\QuanLiSanBong-full\QuanLiSanBong\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csproj.GenerateResource.Cache
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe.config
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.exe
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.pdb
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.exe
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\bin\Debug\QuanLiSanBong.pdb
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\bin\Debug\EntityFramework.dll
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\bin\Debug\EntityFramework.xml
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csprojResolveAssemblyReference.cache
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DanhSachDatSan.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DangNhap.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DanhSachNhanSan.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.DichVuVaThanhToan.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.FrmReportcs.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Main_QuanLiSanBong.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.Properties.Resources.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyDichVu.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyHoaDon.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyKhachHang.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLyNhanVien.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.QuanLySan.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.ThongKeDoanhThu.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.ThongTinTaiKhoan.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.XemChiTietDatSan.resources
+D:\Đồ Án .NET\QuanLiDatSanBongDaMiNi\QuanLiSanBong\QuanLiSanBong\obj\Debug\QuanLiSanBong.csproj.GenerateResource.Cache

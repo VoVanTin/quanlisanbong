@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ThongKe">
+    <Key>
+      <PropertyRef Name="thang" />
+      <PropertyRef Name="nam" />
+    </Key>
+    <Property Name="thang" Type="int" Nullable="false" />
+    <Property Name="doanhthu" Type="int" />
+    <Property Name="nam" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="QLSBModelStoreContainer">
+    <EntitySet Name="ThongKe" EntityType="Self.ThongKe" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ThongKe">
+    <Key>
+      <PropertyRef Name="thang" />
+      <PropertyRef Name="nam" />
+    </Key>
+    <Property Name="thang" Type="Int32" Nullable="false" />
+    <Property Name="doanhthu" Type="Int32" />
+    <Property Name="nam" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="QLSBEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ThongKes" EntityType="Self.ThongKe" />
+  </EntityContainer>
+</Schema>
